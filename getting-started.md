@@ -23,6 +23,15 @@ Using makeCSV:
 - Right click any file in this folder and select "makeCSV" from the list of menu options
 - This will generate a `metadata` folder with a spreadsheet where you will add metadata
 
+### Exactly
+
+Steps:
+- Click on [this link](https://www.weareavp.com/products/exactly/) and download Exactly for Windows
+- Unzip the file
+- Click on the "dist" folder
+- Click on the "bundles" folder
+- Double click the .exe file to open the program (you may also save the .exe file in a location that provides quicker access, such as the Desktop)
+
 ## MacOS
 
 ### makeCSV
@@ -40,3 +49,10 @@ Steps:
 - Delete the makecsv.sh file from the original folder
 - Add metadata to the CSV
 - Add metadata directory to your transfer as part of the Permafrost transfer workflow
+
+### Exactly
+
+Steps:
+- Click on [this link](https://www.weareavp.com/products/exactly/) and download Exactly for Mac
+- Unzip the file
+- Double click the application file icon to open the program (you may also drag the file to a location that provides quicker access, such as the Dock)
