@@ -33,10 +33,15 @@ In the above screenshot, the Dublin Core fields are bolded for emphasis only.
 Here are some fields we will be using and their definitions:
 
 `filename` - filename for the folder or file you are assigning metadata to in the row
+
 `dc.title` - title of the folder or file. This might be something like "1921 Air Photos, Line 6."
+
 `dc.creator` - name of the person or organization who collected or created the images
+
 `dc.date` - date the original air photos were taken. In our case, type `1921`, or whichever year you are working on
+
 `dc.subject` - subject of the object. In our case, something like `air photo`, `canal`, and anything relevant. Add a new column with the column header `dc.subject` for each subject.
+
 `dc.description` - a short description of the object. Something like "air photo of Niagara Region in 1921." Please provide the line number or identifier of the air photo, which is available in the filename or on the image itself.
 
 
