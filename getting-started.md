@@ -32,6 +32,16 @@ Steps:
 - Click on the "bundles" folder
 - Double click the .exe file to open the program (you may also save the .exe file in a location that provides quicker access, such as the Desktop)
 
+### 7-Zip
+
+By default, Archivematica compresses AIPs as 7z files. The 7-Zip utility allows you to extract the files. 
+
+Steps:
+- Click on [this link](https://www.7-zip.org/)
+- Download the 32- or 64-bit version depending on your installation of Windows
+- Double click the .exe file and install
+- Consult the Archivematica workflow documentation for instructions on opening 7z-type AIPs
+
 ## MacOS
 
 ### makeCSV
@@ -56,3 +66,10 @@ Steps:
 - Click on [this link](https://www.weareavp.com/products/exactly/) and download Exactly for Mac
 - Unzip the file
 - Double click the application file icon to open the program (you may also drag the file to a location that provides quicker access, such as the Dock)
+
+### Unarchiver
+
+Steps:
+- Click on [this link](https://theunarchiver.com/) and download the Unarchiver
+- Install the program
+- Consult the Archivematica workflow for instructions on opening 7z-type AIPs
