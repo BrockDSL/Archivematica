@@ -2,6 +2,8 @@
 
 You'll need to install some software in order to use Archivematica. The software you install depends on your operating system.
 
+You will also need an Archivematica account--Isaac will set this up for you when you begin work on the project.
+
 Note: If you are using a Brock computer and run into problems installing the software, this is most likely due to insufficient permissions. If this happens, contact Isaac via Teams or Slack and let them know the error you are encountering.
 
 ## Windows
