@@ -28,3 +28,15 @@ Using makeCSV:
 ### makeCSV
 
 To install makeCSV on a Mac, you'll need to run a script.
+
+Note: This script only works for files in a top-level directory. Sub-directories will not be included.
+
+Steps:
+- Download the file [makecsv.sh](https://spotdocs.scholarsportal.info/download/attachments/186974835/makeCSV.sh?version=1&modificationDate=1532629069000&api=v2)
+- Copy and paste the script file into the folder you want to inventory
+- In Terminal (or your preferred command line program), use the `cd` command to navigate to the directory. For example, if you are looking to inventory an "objects" folder on your Desktop, which is located at /Users/yourusername/Desktop/objects, type `cd /Users/yourusername/Desktop/objects`
+- After using the `cd` command, type `bash makecsv.sh` and hit enter
+- A metadata folder will appear in a new directory at the same level as the folder you inventoried
+- Delete the makecsv.sh file from the original folder
+- Add metadata to the CSV
+- Add metadata directory to your transfer as part of the Permafrost transfer workflow
